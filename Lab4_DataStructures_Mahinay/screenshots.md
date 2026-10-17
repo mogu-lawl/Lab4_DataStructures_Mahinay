@@ -4,5 +4,7 @@
 ![stores](./screenshots/exercise1.2.png)
 
 ## APPENDIX 2:
+![stores](./screenshots/exercise2.1.png)
+![stores](./screenshots/exercise2.2.png)
 
-APPENDIX 3:
+## APPENDIX 3:
