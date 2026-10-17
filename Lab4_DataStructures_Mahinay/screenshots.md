@@ -8,3 +8,6 @@
 ![stores](./screenshots/exercise2.2.png)
 
 ## APPENDIX 3:
+![stores](./screenshots/exercise3.1.png)
+![stores](./screenshots/exercise3.2.png)
+![stores](./screenshots/exercise3.3.png)
